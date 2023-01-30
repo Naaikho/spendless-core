@@ -1,3 +1,3 @@
-# Spendless Tool server
+# Spendless Core
 
-This is the server for Spendless flp parser. It is a simple API that allows you to parse a flp file and get the data in a JSON format.
+This is the core program of SpendLess using for parse and edit music projects files and allow SpendLess to read the json content in temp file.
