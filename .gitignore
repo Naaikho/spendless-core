@@ -1,0 +1,17 @@
+[Cc]onfig/
+[Ll]ogs/
+[Dd]ata/
+[Pp]rojects/
+[Tt]est_*/
+[Tt]mp/
+[Tt]est-*/
+[Oo]utput/
+
+__pycache__/
+
+*.log*
+test_*.*
+test-*.*
+*.flp
+*.pem
+*_unitest.*
